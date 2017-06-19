@@ -1,0 +1,3 @@
+하다	Verb	21
+.	Punctuation	19
+도	Josa	10

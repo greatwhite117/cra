@@ -1,0 +1,9 @@
+여왕	Noun	20
+하다	Verb	20
+이	Josa	16
+뉴스	Noun	15
+세	Noun	13
+의	Josa	11
+불참	Noun	11
+가짜	Noun	11
+엘리자베스	Noun	10

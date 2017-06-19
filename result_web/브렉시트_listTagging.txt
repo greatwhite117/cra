@@ -1,0 +1,12 @@
+브렉	Noun	33
+시트	Noun	33
+영국	Noun	18
+.	Punctuation	16
+)	Punctuation	16
+가	Josa	16
+(	Punctuation	16
+의	Josa	16
+,	Punctuation	13
+...	Punctuation	13
+에	Josa	13
+를	Josa	10

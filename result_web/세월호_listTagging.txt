@@ -1,0 +1,8 @@
+세월호	Noun	29
+.	Punctuation	25
+하다	Verb	23
+을	Josa	15
+일	Noun	15
+에	Josa	11
+17	Number	10
+5	Number	10
